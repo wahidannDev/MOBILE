@@ -1,16 +1,16 @@
-# mobile
+# Medpoint Mobile
 
-A new Flutter project.
+## Introduction
+Mobile application for MedPoint online reservation platform, built using Flutter and Dart. This app allows users to register, log in, and book appointments with doctors. It integrates with Supabase for authentication, database, and backend functionality.
+
+## Tech Stack
+- Dart
+- Flutter
+- Supabase (as backend service)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+```bash
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Run app on connected device or emulator
+flutter run
